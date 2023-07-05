@@ -6,6 +6,8 @@
 - 📫 How to reach me **afifhabib72@gmail.vom**
 
 - ⚡ Fun fact **Need Money ASAP**
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v4p5epzvrvgcjn2bv2rsqoaq5a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5e4eb1)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/afifhabibdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/afifhabibdev" /></a></p><br><br>
+![build](https://github.com/47hitman/47hitman/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/47hitman/47hitman)
+![pv](https://pageview.vercel.app/?github_user=47hitman)
