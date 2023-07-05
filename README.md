@@ -21,6 +21,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/afifhabibdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/afifhabibdev" /></a></p><br><br>
-![build](https://github.com/47hitman/47hitman/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/47hitman/47hitman)
-![pv](https://pageview.vercel.app/?github_user=47hitman)
+
