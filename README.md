@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ondelivery Indonesia**
 
-- 📫 How to reach me **afifhabib72@gmail.vom**
+- 📫 How to reach me **afifhabib72@gmail.com**
 
 - ⚡ Fun fact **Need Money ASAP**
   
