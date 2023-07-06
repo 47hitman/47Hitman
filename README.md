@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afif Habibie</h1>
-<h3 align="center">I am a dedicated Mobile Developer with a passion for creating high-quality applications and constantly expanding my skills to deliver exceptional user experiences.</h3>
+<h3 align="center">I am a dedicated Software Developer with a passion for creating high-quality applications and constantly expanding my skills to deliver exceptional user experiences.</h3>
 
 - 🔭 I’m currently working on **Ondelivery Indonesia**
 
