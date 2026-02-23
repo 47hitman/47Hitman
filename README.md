@@ -64,14 +64,12 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=47hitman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=47hitman&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakNum=ffffff" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=47hitman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="100%" />
-</div>
+<p float="left">
+    <img src="https://ghstats.onuralpsezer.com?user=47hitman&theme=dark" width="60%" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%"> -->
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurrifqialhusaini&theme=github_dark" width="50%"> -->
+    <img src="https://github-contribution-stats.vercel.app/api/?username=47hitman&theme=onedark" width="30%" />
+</p>
 
 ---
 
