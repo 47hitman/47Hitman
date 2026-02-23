@@ -15,7 +15,7 @@
     <a href="mailto:afifhabib72@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://afif.ai"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://eyafifhabibie.blog"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
@@ -66,8 +66,6 @@
 
 <p float="left">
     <img src="https://ghstats.onuralpsezer.com?user=47hitman&theme=dark" width="60%" />
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%"> -->
-    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurrifqialhusaini&theme=github_dark" width="50%"> -->
     <img src="https://github-contribution-stats.vercel.app/api/?username=47hitman&theme=onedark" width="30%" />
 </p>
 
