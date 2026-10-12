@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 12" width="1000" height="60" shape-rendering="crispEdges">
+  <title>Pixel cat walking</title>
+  <style>
+    @keyframes walk { from { transform: translateX(-20px) } to { transform: translateX(210px) } }
+    @keyframes stepA { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    @keyframes stepB { 0%,49% { opacity: 0 } 50%,100% { opacity: 1 } }
+    @keyframes tail { 0%,100% { transform: rotate(0) } 50% { transform: rotate(-20deg) } }
+    .cat { animation: walk 14s linear infinite }
+    .a { animation: stepA .4s steps(1) infinite }
+    .b { animation: stepB .4s steps(1) infinite }
+    .tail { transform-box: fill-box; transform-origin: right bottom; animation: tail .8s ease-in-out infinite }
+  </style>
+  <rect x="0" y="11" width="200" height="1" fill="#06B6D4" opacity=".35"/>
+  <g fill="#06B6D4" opacity=".6">
+    <rect x="20" y="11" width="2" height="1"/><rect x="60" y="11" width="2" height="1"/>
+    <rect x="100" y="11" width="2" height="1"/><rect x="140" y="11" width="2" height="1"/>
+    <rect x="180" y="11" width="2" height="1"/>
+  </g>
+  <g class="cat" fill="#f4a261">
+    <rect class="tail" x="0" y="3" width="2" height="4"/>
+    <rect x="2" y="5" width="9" height="4"/>
+    <rect x="4" y="5" width="2" height="1" fill="#e76f51"/>
+    <rect x="7" y="5" width="2" height="1" fill="#e76f51"/>
+    <rect x="10" y="3" width="5" height="5"/>
+    <rect x="10" y="1" width="1" height="2"/>
+    <rect x="14" y="1" width="1" height="2"/>
+    <rect x="11" y="4" width="1" height="1" fill="#1e1b2e"/>
+    <rect x="13" y="4" width="1" height="1" fill="#1e1b2e"/>
+    <rect x="12" y="6" width="1" height="1" fill="#e76f51"/>
+    <g class="a">
+      <rect x="2" y="9" width="1" height="2"/><rect x="5" y="9" width="1" height="2"/>
+      <rect x="8" y="9" width="1" height="2"/><rect x="10" y="9" width="1" height="2"/>
+    </g>
+    <g class="b">
+      <rect x="3" y="9" width="1" height="2"/><rect x="4" y="9" width="1" height="2"/>
+      <rect x="9" y="9" width="1" height="2"/><rect x="11" y="9" width="1" height="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cozy-room.svg" width="100%" alt="cozy pixel room — late night coding" />
+</p>
+
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=%3E_INITIALIZING+SYSTEM...;%3E_HELLO,+I'M+EY+AFIF+HABIBIE;%3E_AI+ENGINEER+%7C+MOBILE+ARCHITECT;%3E_BUILDING+AGENTIC+WORKFLOWS..." alt="Typing SVG" />
@@ -21,7 +25,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="pixel cat walking" /></p>
 
 ### ⚡ Tech Stack & Arsenal
 
@@ -60,7 +64,7 @@
   </p>
 </details>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="pixel cat walking" /></p>
 
 ### 📊 GitHub Analytics
 
@@ -69,7 +73,11 @@
     <img src="https://github-contribution-stats.vercel.app/api/?username=47hitman&theme=onedark" width="30%" />
 </p>
 
----
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+</p>
+
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="pixel cat walking" /></p>
 
 ### 🐍 Contribution Graph (Interactive)
 
